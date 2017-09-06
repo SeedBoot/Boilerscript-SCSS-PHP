@@ -1,5 +1,7 @@
-# Boilerscript-PHP-SCSS
-A short python script that generates a static boilerplate HTML site, with style and script directories and files.
+# Boilerscript-PHP-SCSS :snake:
+A python script that generates a dynamic boilerplate site. It generates SCSS, PHP and JS files and directories. It then opens a command prompt, using SASS to listen to the import:export folders. Finally, it opens WAMP server.
+
+Now you can get :fire: even quicker! :metal:
 
 ## File Hierarchy
 
@@ -22,6 +24,10 @@ A short python script that generates a static boilerplate HTML site, with style 
       |--_var.scss
       |--style.scss
 ```
+
+### Dependencies
+- SCSS/SASS
+- WAMP
 
 ## Instructions
 - Ensure you have the latest version of Python installed.
