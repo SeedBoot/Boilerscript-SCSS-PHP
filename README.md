@@ -29,6 +29,5 @@ A short python script that generates a static boilerplate HTML site, with style 
   - Point your terminal to the desired directory
   - Type `boilscssphp.py` into the terminal, kick back and relax for those five minutes you just saved... :sunglasses:
 - Or, if you're feeling lazy: place this script and the folder into the root of your project.
-  - Comment out the ROOT variable.
+  - Comment out the instances of ROOT variable and "ROOT + ".
   - Double click on `boilscssphp.py`, kick back and relax for those five minutes you just saved... :boom:
-    
