@@ -1,4 +1,4 @@
-# Boilerscript-PHP-SCSS :snake:
+# Boilerscript-PHP-SCSS
 A python script that generates a dynamic boilerplate site. It generates SCSS, PHP and JS files and directories. It then opens a command prompt, using SASS to listen to the import:export folders. Finally, it opens WAMP server.
 
 Now you can get :fire: even quicker! :metal:
